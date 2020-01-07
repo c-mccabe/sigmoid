@@ -11,7 +11,7 @@ and over.
 A general sigmoid function (i.e. with arbitrary symptotes and not just between
 0 and 1) can be written y(x) = a/(1 + e^(bx - c)) + d, where the parameters
 a, b, c, and d are the output of the function. The inputs are the asymptotes
-of the sigmoid and two points you would like it to cross (which determines the
+of the sigmoid and two points you would like it to cross (which essentially determines the
 slope).
 
 
