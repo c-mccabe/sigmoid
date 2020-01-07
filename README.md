@@ -14,5 +14,9 @@ a, b, c, and d are the output of the function. The inputs are the asymptotes
 of the sigmoid and two points you would like it to cross (which essentially determines the
 slope).
 
+## Further work 7/1/20
+
+Will be developing into an R package for ease of access.
+
 
 
